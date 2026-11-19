@@ -1,0 +1,8 @@
+{
+  "name": "Marketing Hub v2",
+  "description": "An AI-powered marketing campaign automation hub and real-time performance analytics dashboard across social platforms.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
